@@ -2,13 +2,10 @@
   "name": "vulcanizare-auto-ianys",
   "version": "1.0.0",
   "private": true,
-  "engines": {
-    "node": ">=18.18.0",
-    "npm": ">=9.0.0"
-  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:vercel": "next build",
     "start": "next start",
     "lint": "next lint"
   },

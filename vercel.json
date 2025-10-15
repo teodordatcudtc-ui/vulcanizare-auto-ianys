@@ -1,12 +1,5 @@
 {
   "framework": "nextjs",
-  "buildCommand": "npm run build",
-  "devCommand": "npm run dev",
-  "installCommand": "npm install --legacy-peer-deps",
-  "regions": ["iad1"],
-  "build": {
-    "env": {
-      "NODE_VERSION": "18.18.0"
-    }
-  }
+  "buildCommand": "chmod +x node_modules/.bin/next && npm run build",
+  "installCommand": "npm install"
 }
