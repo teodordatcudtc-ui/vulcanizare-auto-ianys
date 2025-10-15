@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /politica-confidentialitate
+Disallow: /termeni-conditii
+
+Sitemap: https://vulcanizare-auto-ianys.ro/sitemap.xml
