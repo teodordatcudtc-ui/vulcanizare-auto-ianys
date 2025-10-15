@@ -1,15 +1,15 @@
 {
-  "/_not-found": "app/_not-found.js",
-  "/robots.txt/route": "app/robots.txt/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/sitemap.xml/route": "app/sitemap.xml/route.js",
-  "/politica-confidentialitate/page": "app/politica-confidentialitate/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
   "/despre/page": "app/despre/page.js",
-  "/faq/page": "app/faq/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/servicii/page": "app/servicii/page.js",
   "/galerie/page": "app/galerie/page.js",
   "/preturi/page": "app/preturi/page.js",
   "/page": "app/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/politica-confidentialitate/page": "app/politica-confidentialitate/page.js",
+  "/faq/page": "app/faq/page.js",
+  "/servicii/page": "app/servicii/page.js",
   "/programari/page": "app/programari/page.js",
   "/termeni-conditii/page": "app/termeni-conditii/page.js"
 }
