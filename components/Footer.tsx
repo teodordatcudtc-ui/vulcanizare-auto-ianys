@@ -106,7 +106,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-sm text-gray-400">
-              <p>&copy; 2024 Vulcanizare Auto Ianys. Toate drepturile rezervate.</p>
+              <p>&copy; 2025 Vulcanizare Auto Ianys. Toate drepturile rezervate.</p>
             </div>
             <div className="flex space-x-6 text-sm">
               <Link

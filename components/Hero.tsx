@@ -53,7 +53,7 @@ export default function Hero() {
   return (
     <section 
       ref={heroRef}
-      className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-br from-primary-black via-primary-dark to-primary-black"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-br from-primary-black via-primary-dark to-primary-black pt-20 md:pt-0"
     >
       {/* Background Layers */}
       <div className="absolute inset-0 parallax-bg">
